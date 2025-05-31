@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\ema\\downloads\\coursesapplication-cleaned2\\coursesapplication-cleaned\\coursesapplication3\\coursesapplication.web\\controllers\\studentoncoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\controllers\\studentoncoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|c:\\users\\ema\\downloads\\coursesapplication-cleaned2\\coursesapplication-cleaned\\coursesapplication3\\coursesapplication.web\\views\\studentoncourse\\enrolloncourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97FB0D4C-294B-48EF-9FF3-227A8CE94E1A}|CoursesApplication.Web\\CoursesApplication.Web.csproj|solutionrelative:coursesapplication.web\\views\\studentoncourse\\enrolloncourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB266BAE-C4CD-42C2-9AC9-16846ED6AE4E}|CoursesApplication.Service\\CoursesApplication.Service.csproj|c:\\users\\ema\\downloads\\coursesapplication-cleaned2\\coursesapplication-cleaned\\coursesapplication3\\coursesapplication.service\\implementation\\studentoncourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB266BAE-C4CD-42C2-9AC9-16846ED6AE4E}|CoursesApplication.Service\\CoursesApplication.Service.csproj|solutionrelative:coursesapplication.service\\implementation\\studentoncourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E56251C-8BB3-4052-95F3-C0BF85A6B0AB}|CoursesApplication.Domain\\CoursesApplication.Domain.csproj|c:\\users\\ema\\downloads\\coursesapplication-cleaned2\\coursesapplication-cleaned\\coursesapplication3\\coursesapplication.domain\\dto\\enrolloncoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E56251C-8BB3-4052-95F3-C0BF85A6B0AB}|CoursesApplication.Domain\\CoursesApplication.Domain.csproj|solutionrelative:coursesapplication.domain\\dto\\enrolloncoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollOnCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Web\\Views\\StudentOnCourse\\EnrollOnCourse.cshtml",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\Views\\StudentOnCourse\\EnrollOnCourse.cshtml",
+              "ToolTip": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Web\\Views\\StudentOnCourse\\EnrollOnCourse.cshtml",
+              "RelativeToolTip": "CoursesApplication.Web\\Views\\StudentOnCourse\\EnrollOnCourse.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T20:14:54.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollOnCourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Domain\\DTO\\EnrollOnCourseDTO.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Domain\\DTO\\EnrollOnCourseDTO.cs",
+              "ToolTip": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Domain\\DTO\\EnrollOnCourseDTO.cs",
+              "RelativeToolTip": "CoursesApplication.Domain\\DTO\\EnrollOnCourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:13:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentOnCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "ToolTip": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "RelativeToolTip": "CoursesApplication.Web\\Controllers\\StudentOnCourseController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:12:19.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 36,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentOnCourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "RelativeDocumentMoniker": "CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "ToolTip": "C:\\Users\\Ema\\Downloads\\CoursesApplication-Cleaned2\\CoursesApplication-Cleaned\\CoursesApplication3\\CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "RelativeToolTip": "CoursesApplication.Service\\Implementation\\StudentOnCourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:19:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
